@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 011a4b1fc55492149a3d53bf60689b29
+timeCreated: 1481655735
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ben Krush
+  fontNames:
+  - Ben Krush
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
